@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="500" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
+<img align="right" alt="Coding" width="425" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
 
     
 <br>
