@@ -4,8 +4,8 @@
 
 
 
-Prueba de perfil de GitHub**
-<img align="right" alt="Coding" width="300" src="https://i.gifer.com/AjA6.gif">
+Prueba de perfil de GitHub
+<img align="right" alt="Coding" width="300" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
 ">
     
 <br>
@@ -48,6 +48,5 @@ Prueba de perfil de GitHub**
 <a href="https://https://www.instagram.com/valentino_minoletti19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 :3
