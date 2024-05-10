@@ -18,8 +18,11 @@ Prueba de perfil de GitHub**
 <hr width="36%" >
 
 <h1 align="left">cualidades:</h1>
+
 <h2 align="center"> colavorativo</h2>
 <img align="left" src="https://grupo-pya.com/wp-content/uploads/2021/10/Tipos-de-inteligencia-1.jpg" width="800" height="420">
+
+
 
 <h2 align="center">enfocado</h2>
 <img src="https://ignaciogavilan.com/wp-content/uploads/2018/12/aprender.jpg" width="800" height="420">
