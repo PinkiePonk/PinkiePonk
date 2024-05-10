@@ -39,10 +39,10 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
-<h3 align="left">Contactate Conmigo:</h3>
+<h3 align="left">pueden encontrarme en instagram::</h3>
 <p align="left">
 <a href="https://https://www.instagram.com/valentino_minoletti19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-<h3>o tambien puede encontrarme como valentinominoletti Discord:</h3>
+<h3>o tambien puede encontrarme como valentinominoletti en Discord:</h3>
 <a href="https://discord.gg/wmNrPh48/" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
