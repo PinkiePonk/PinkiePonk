@@ -3,17 +3,18 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 Prueba de perfil de GitHub**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<a style="font-size: small;" img="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></a>
-    <a style="font-size: small;" img="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></a>
-    <a style="font-size: small;" img="https://raptortech.com/wp-content/uploads/2021/08/raptor-icon-banner.png"></a>
+<img align="right" alt="Coding" width="300" src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif">
 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Phyton" width="40" height="40"/> </a>
+<p align="left"> <a href="https://raptor.martincarlisle.com" rel="noreferrer"> <img src="https://raptortech.com/wp-content/uploads/2021/08/raptor-icon-banner.png" alt="Raptor" width="40" height="40"/> </a>
+
+<p align="left"> <a href="https://es.wikipedia.org/wiki/HTML" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" alt="Raptor" width="40" height="40"/> </a>
+    
 <br>
 <h3 align="left">cosas que se manejar:</h3>
-  
+  <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
@@ -37,9 +38,4 @@ Prueba de perfil de GitHub**
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
-------
-
-
-[ANii693](https://github.com/ANii693)
-
-Last Edited on: 28/02/2023
+:3
