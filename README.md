@@ -5,7 +5,7 @@
 
 
 Prueba de perfil de GitHub**
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:2000/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/AjA6.gif">
 ">
     
 <br>
@@ -18,9 +18,9 @@ Prueba de perfil de GitHub**
 <hr width="36%" >
 
 <h2 align="left">cualidades:</h2>
-<ul>
+<ul align="left">
     <il>coperativo</il>
-    <il>siempre dispuesto a aprender</il>
+    <il>siempre dispuesto a aprender,</il>
     <il>muy optimista</il>
 </ul>
 <h3>mis estadisticas de GitHub</h3>
