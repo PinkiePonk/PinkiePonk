@@ -42,7 +42,8 @@
 <h3 align="left">Contactate Conmigo:</h3>
 <p align="left">
 <a href="https://https://www.instagram.com/valentino_minoletti19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-<a href="https://https://https://discord.com/channels/valentinominoletti" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBCGmQYgurXrkOAWq_2Mh_lNJs9jxDDsmEVJAIWkbCQ&s" alt="anii_akhil" height="30" width="40" /></a>
+<h3>o tambien puede encontrarme como valentinominoletti Discord:</h3>
+<a href="https://discord.gg/wmNrPh48/" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
 
