@@ -1,12 +1,8 @@
 <h1 align="center">QUE ONDA!!! SOY VALENTINO</h1>
 
 
-
-
-
-Prueba de perfil de GitHub
 <img align="right" alt="Coding" width="300" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
-">
+>
     
 <br>
 <h3 align="left">cosas que se manejar:</h3>
