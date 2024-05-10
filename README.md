@@ -5,7 +5,7 @@
 
 
 Prueba de perfil de GitHub**
-<img align="right" alt="Coding" width="300" src="![image](https://github.com/PinkiePonk/PinkiePonk/assets/169494256/051e421e-0e32-4833-9b63-375ba5344f9c)
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:2000/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 ">
     
 <br>
@@ -17,7 +17,13 @@ Prueba de perfil de GitHub**
 <p align="left"> <a href="https://es.wikipedia.org/wiki/HTML" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" alt="Raptor" width="40" height="40"/> </a>
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h2 align="left">cualidades:</h2>
+<ul>
+    <il>coperativo</il>
+    <il>siempre dispuesto a aprender</il>
+    <il>muy optimista</il>
+</ul>
+<h3>mis estadisticas de GitHub</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
