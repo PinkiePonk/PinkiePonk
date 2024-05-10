@@ -18,11 +18,9 @@ Prueba de perfil de GitHub**
 <hr width="36%" >
 
 <h2 align="left">cualidades:</h2>
-<ul align="left">
-    <il>coperativo</il>
-    <il>siempre dispuesto a aprender,</il>
-    <il>muy optimista</il>
-</ul>
+<p align="left">colavorativo</p>
+<p align="left">siempre dispuesto a aprender</p>
+<p align="left">optimista</p>
 <h3>mis estadisticas de GitHub</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
