@@ -22,8 +22,11 @@ Prueba de perfil de GitHub**
 <h2 align="center"> colavorativo</h2>
 <img align="left" src="https://grupo-pya.com/wp-content/uploads/2021/10/Tipos-de-inteligencia-1.jpg" width="800" height="420">
 
+<h2 align="center">enfocada</h2>
+<img src="https://ignaciogavilan.com/wp-content/uploads/2018/12/aprender.jpg" width="800" height="420">
 
-<h2 align="center">optimista</h2>
+
+<h2 align="center">optimizta</h2>
 <img src="https://asistenciasanitaria.com.ar/wp-content/uploads/2018/11/gettyimages-905964110.jpg" width="800" height="420">
 
 <h3>mis estadisticas de GitHub</h3>
