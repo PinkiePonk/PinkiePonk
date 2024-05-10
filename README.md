@@ -24,7 +24,7 @@ Prueba de perfil de GitHub**
 
 
 
-<h2 align="center">enfocado</h2>
+<h2 align="left">enfocado</h2>
 <img src="https://ignaciogavilan.com/wp-content/uploads/2018/12/aprender.jpg" width="800" height="420">
 
 <h2 align="center">optimista</h2>
