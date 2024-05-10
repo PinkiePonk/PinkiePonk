@@ -17,13 +17,18 @@ Prueba de perfil de GitHub**
 <p align="left"> <a href="https://es.wikipedia.org/wiki/HTML" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" alt="Raptor" width="40" height="40"/> </a>
 <hr width="36%" >
 
-<h2 align="left">cualidades:</h2>
+<h1 align="left">cualidades:</h1>
 <img align="left" src="https://grupo-pya.com/wp-content/uploads/2021/10/Tipos-de-inteligencia-1.jpg" width="800" height="420">
-<p align="center"> colavorativo</p>
+
+<h2 align="center"> colavorativo</h2>
+
 <img src="https://ignaciogavilan.com/wp-content/uploads/2018/12/aprender.jpg" width="800" height="420>
-<p align="center">siempre dispuesto a aprender</p>
+
+<h2 align="center">siempre dispuesto a aprender</h2>
+
 <img src="https://asistenciasanitaria.com.ar/wp-content/uploads/2018/11/gettyimages-905964110.jpg" width="800" height="420">
-<p align="center">optimista</p>
+
+<h2 align="center">optimista</h2>
 <h3>mis estadisticas de GitHub</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
