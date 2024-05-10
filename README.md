@@ -1,8 +1,10 @@
 <h1 align="center">QUE ONDA!!! SOY VALENTINO</h1>
 
 
+
 <img align="right" alt="Coding" width="300" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
->
+<img src="https://t3.ftcdn.net/jpg/03/28/99/96/360_F_328999612_9rgntVJLkuvP1E48bNdYTvV189MuCvOB.jpg"> width="9000" height="9000"
+
     
 <br>
 <h3 align="left">cosas que se manejar:</h3>
